@@ -1,0 +1,231 @@
+<HTML>
+	<HEAD>
+	    <TITLE>WEB PAGE</TITLE>
+	<STYLE>
+	
+	*{
+	
+	margin:0;
+	padding:0;
+	outline:none;
+	box-sizing:border-box;
+	font-family:Calibri;
+	}
+	
+	body{
+	 
+	position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    background-color:#71C562;
+	}
+	
+	.container{
+	
+	background:#fff;
+	padding:20px 30px;
+	border-radius:7px;
+	box-shadow:0 5px 15px rgba(0,0,0,0.5);
+	transition:0.3s 0.5s ease-in;
+	transform:sacle(0);
+	}
+	
+	.container h2{
+	
+	position:relative;
+	font-size:40px;
+	font-weight:800px;
+	padding:20px 0;
+    color:#222;
+    text-align:center;
+    letter-spacing:2px;
+    }  	
+	
+	.container h2::after{
+	
+	position:absolute;
+	content:"";
+	height:2px;
+	width:100%;
+	background-color:#c0c0c0;
+	left:0;
+	bottom:-10px;
+	}
+	
+	.container label .fa-times{
+	
+	position:absolute;
+	right:25px;
+	top:25px;
+	font-size:25px;
+	color:#71C562;
+	cursor:pointer;
+	z-index:1px;
+	}
+	
+	
+	.container label .fa-times:active{
+	
+	transform:rotate(720deg);
+	transition:1s ease;
+	}
+	
+	.container form{
+	
+	margin:35px 0;
+	}
+	
+	.container form label{
+	
+	position:relative;
+	font-size:22px;
+	letter-spacing:0.5px;
+	color:#222;
+	}
+	
+	.container form label::after{
+	
+	position:absolute;
+	content:'*';
+	color:red;
+	}
+	
+	input[type="text"],
+	input[type="password"]{
+	width:350px;
+	height:50px;
+	border:1px solid #c0c0c0;
+	padding:0 20px;
+	font-size:18px;
+	border-radius:25px;
+	transition:0.3s ease-in;
+	}
+	
+	
+	input[type="text"]:focus,
+	input[type="password"]:focus{
+	border:3px solid #71C562;
+	color:71C562;
+	}
+	
+	.container form #user{
+	
+	margin-bottom:10px;
+	}
+	
+	.container form .forgetpw{
+	
+	display:block;
+	margin:3px 0;
+	font-size:18px;
+	text-decoration:none;
+	color:#696969;
+	}
+	
+	.container form .forgetpw:hover{
+	
+	text-decoration:underline;
+	color:#71C562;
+	}
+	
+    .container form button{
+	
+	position:relative;
+	width:100%;
+	padding:10px 0;
+	border:none;
+	border-radius:25px;
+	background-color:#71C562;
+	box-shadow:0 3px 10px rgba(0,0,0,0.3);
+	}
+	
+	.container form button .fa-send{
+	
+	color:#fff;
+	font-size:20px;
+	}
+	
+	.container form button .fa-send:hover{
+	color:gray;
+	}
+	.container form button:active{
+	
+	transform:sacle(0.98);
+	}
+	
+	.container form button #btn{
+	
+	background-color:transparent;
+	border:none;
+	margin-left:5px;
+	font-size:22px;
+	color:#fff;
+	font-weight:400;
+	}
+	
+	.container form .signup{
+	
+	width:100%;
+	padding:3px 0;
+	font-size:20px;
+	margin-top:20px;
+	font-weight:400px;
+	}
+	
+	.container form .signup a{
+	
+	color:#71C562;
+	}
+	
+	.container form .signup a:hover{
+	 
+	color:red;
+    }	
+		
+
+	</STYLE>
+	</HEAD>
+	<BODY>
+    
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+	
+	
+    <div class="container">	
+	
+	<label for="">
+		<i class="fa fa-times"></i>
+	</label>
+
+    <h2>Login</h2>
+    <form action="">
+        
+		<label>User name</label>
+		<br>
+		<input type="text" placeholder="User name">
+		<br>
+		
+		<label>Password</label>
+		<br>
+		<input type="password" placeholder="Password">
+	    <br>
+		
+		<a href="#" class="forgetpw">Forget password</a>
+	    <br>
+		 
+		<button>
+			<i class="fa fa-send"></i>
+			<input type="submit" value="send" id="btn">
+		</button>	
+	
+	    <div class="signup">
+		
+		Not a member? <a href="#">Signup</a>
+		
+		</div>
+	
+	</form>
+	</div>
+	
+	</BODY>
+</HTML>	
