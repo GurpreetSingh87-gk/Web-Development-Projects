@@ -22,6 +22,6 @@ In these projects i have created a Login Form and Navigation Bar.
 
 ## 🚀 Purpose
 
-To create beginner level websites and strengthen web development skills for real website baesd projects. 
+To create beginner level websites and strengthen web development skills for real website based projects. 
 
   
