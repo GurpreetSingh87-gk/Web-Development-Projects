@@ -1,4 +1,4 @@
-## 🎯 Web-Development-Projects
+## 🎯 Web Development Projects
 
 Welcome to my Web Development Projects repository.
 This repository contains basic Projects of Web Designing using HTML, CSS, and Javascript.
