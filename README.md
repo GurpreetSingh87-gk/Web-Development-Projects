@@ -27,7 +27,12 @@ To create beginner level websites and strengthen web development skills for real
 
 ---
 
-## Demo Screenshots 
+## 📷 Demo Screenshots 
+
+**Login Form**
 
 <img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/9e8176fd-ba5b-4a66-a934-d2a43c1b9f6d" />
-  
+
+**Navigation Bar**
+
+<img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/a8d3f639-5e96-4885-8624-5e03f303a0c7" />  
