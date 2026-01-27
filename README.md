@@ -32,3 +32,12 @@ To create beginner level websites and strengthen web development skills for real
 **Navigation Bar**
 
 <img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/a8d3f639-5e96-4885-8624-5e03f303a0c7" />  
+
+---
+
+## ⚙️ How to Run
+1. Download or clone this repository.  
+2. Open any `.html` file in your preferred IDE (VS Code or Notepad++).  
+3. Run the script using:  
+   ```bash
+      filename.html
