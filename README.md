@@ -1,11 +1,9 @@
-## 🎯 Web Development Projects
+# 🎯 Web Development Projects
 
 Welcome to my Web Development Projects repository.
 This repository contains basic Projects of Web Designing using HTML, CSS, and Javascript.
 
-
 ---
-
 
 ## 🔎 About
 
@@ -17,9 +15,7 @@ In these projects i have created a Login Form and Navigation Bar.
 - ☰ **Navigation Bar :-** It contains a Menu section where user tab and enters into Home, About, and Contact section in a Website. I have also
   use the CSS animation for better understanding for each section.
 
-
 ---
-
 
 ## 🚀 Purpose
 
