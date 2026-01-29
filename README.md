@@ -5,33 +5,56 @@ This repository contains basic Projects of Web Designing using HTML, CSS, and Ja
 
 ---
 
-## 🔎 About
+## 1. 📝 Login Form
 
-In these projects i have created a Login Form and Navigation Bar.
+In this project i have created a Login Form by using html for user inputs and css for styling. 
 
-- 🖥️ **Login Form :-** It contains Personal details cloumn like:- "Enter Username, Password, Submit, Forget Password link and Sign up link" etc.
-  It created by using simple HTML Tags, CSS styling, and Javascript.
+### Featurs
+
+- **Username**
+
+- **Password**
   
-- ☰ **Navigation Bar :-** It contains a Menu section where user tab and enters into Home, About, and Contact section in a Website. I have also
-  use the CSS animation for better understanding for each section.
+- **Forget Password link**
+
+- **Submit Butthon**
+
+- **Sign up link**
+
+### Technologies
+
+- #️⃣ Html
+
+- 🎨 CSS
+
+---
+
+## 📷 Demo Screenshots 
+
+<img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/9e8176fd-ba5b-4a66-a934-d2a43c1b9f6d" />
+
+---
+
+## 2. ☰  Navigation Bar
+  
+Navigation Bar created by using simple HTML Tags and CSS styling.
+  
+### Features
+
+It contains a Menu section where user tab and enters into Home, About, and Contact section in a Website. I have also
+use the CSS animation (icons) for better understanding for each section.
+
+---
+
+## 📷 Demo Screenshots 
+
+<img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/a8d3f639-5e96-4885-8624-5e03f303a0c7" />  
 
 ---
 
 ## 🚀 Purpose
 
 To create beginner level websites and strengthen web development skills for real website based projects. 
-
----
-
-## 📷 Demo Screenshots 
-
-**Login Form**
-
-<img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/9e8176fd-ba5b-4a66-a934-d2a43c1b9f6d" />
-
-**Navigation Bar**
-
-<img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/a8d3f639-5e96-4885-8624-5e03f303a0c7" />  
 
 ---
 
